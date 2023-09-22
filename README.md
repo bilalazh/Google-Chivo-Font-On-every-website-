@@ -26,7 +26,10 @@ if you dont have it installed already
 
 ##### Now its time to install the style 
 
-go to this [LINK HERE ](https://userstyles.world/style/12169/google-chivo-font-everywhere)
+go to this 
+[LINK HERE ](https://userstyles.world/style/12169/google-chivo-font-everywhere)
+<img src="https://userstyles.world/style/12169/google-chivo-font-everywhere" width="200" height= "200"/>
+
  and follow straight forward instructions to install this style
  a window will pop open asking for confirmation 
 should look like this
