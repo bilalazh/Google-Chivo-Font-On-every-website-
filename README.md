@@ -13,7 +13,7 @@ This user style applies the Google Chivo font to every page you visit. I have ma
 - Monospace font
 - Icons - this theme is set up to ignore icons and doesn't mess up icons on most websites (There were issues on some websites).
 
-> _Note:_ Sometimes causes glitch like text duplication on some website when you highlight the text. Some known websites where I have seen this style glitch are GitHub, Google Collab.
+
 
 ## Known Issues <a name="known-issues"></a>
 
@@ -23,7 +23,7 @@ This user style applies the Google Chivo font to every page you visit. I have ma
 
 ## Installation Instructions <a name="installation-instructions"></a>
 
-> _Important:_ Make sure you have Stylus Extension installed. If you don't have it installed already, [CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from Chrome Webstore. You can pin it to see the active styles on any website at any time.
+> **Important:** Make sure you have Stylus Extension installed. If you don't have it installed already, [CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from Chrome Webstore. You can pin it to see the active styles on any website at any time.
 
 Two right next to the icon shows that there are two styles active for the specific website right now.
 
