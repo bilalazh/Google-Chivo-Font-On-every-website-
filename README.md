@@ -1,56 +1,42 @@
-## Description /Features and known Issues 
-This user style will apply the google chivo font to everything page you visit 
-I have made some changes in it so websites dont break 
-this will not change the following 
-- monospace font
-- icons --> this theme is set up to ignore icons and dont mess up icons on most websites (There were issues on some websites)
+# Google Chivo Font User Style
 
+## Table of Contents
+1. [Description](#description)
+2. [Known Issues](#known-issues)
+3. [Installation Instructions](#installation-instructions)
+4. [Screenshot](#screenshot)
 
-**KNOWN ISSUES**
-- sometimes causes glitch like text duplication on some website when you highlight the text 
-some known websites where i have seen this style glitch are 
-- github 
-- google collab
+## Description <a name="description"></a>
 
-## INSTALLATION INSTRUCTIONS: 
-##### Make sure you have Stylus Extension installed
-**SKIP THIS IF YOU ALREADY HAVE THE EXTENSION INSTALLED**
+This user style applies the Google Chivo font to every page you visit. I have made some changes in it so websites don't break. This will not change the following:
 
+- Monospace font
+- Icons - this theme is set up to ignore icons and doesn't mess up icons on most websites (There were issues on some websites).
 
+> _Note:_ Sometimes causes glitch like text duplication on some website when you highlight the text. Some known websites where I have seen this style glitch are GitHub, Google Collab.
 
+## Known Issues <a name="known-issues"></a>
 
+- Text duplication on some websites when you highlight the text. Known websites where this issue occurs include:
+  - GitHub
+  - Google Collab
 
+## Installation Instructions <a name="installation-instructions"></a>
 
-if you dont have it installed already 
-[CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from `Chrome Webstore`
-- you can pin it to see the active styles on any website at any time
+> _Important:_ Make sure you have Stylus Extension installed. If you don't have it installed already, [CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from Chrome Webstore. You can pin it to see the active styles on any website at any time.
 
+Two right next to the icon shows that there are two styles active for the specific website right now.
 
+![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/a0c78478-203e-48fe-a1e2-98ff0aa8fff0)
 
+To install the style, go to this [LINK HERE](https://userstyles.world/style/12169/google-chivo-font-everywhere) and follow the instructions to install this style. A window will pop open asking for confirmation. It should look like this:
 
-  **Two right next to the icon  ![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/a0c78478-203e-48fe-a1e2-98ff0aa8fff0)      shows that there are two styles active for the specific website right now**
-
-
-
-
-##### Now its time to install the style 
-
-go to this 
-[LINK HERE ](https://userstyles.world/style/12169/google-chivo-font-everywhere)
-
-
- and follow straight forward instructions to install this style
- a window will pop open asking for confirmation 
-should look like this
 ![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/5ff53335-8fa3-4a72-b929-83b220c57929)
 
+Click on the `install style` to confirm your installation. Enjoy using the style!
 
+## Screenshot <a name="screenshot"></a>
 
+This is how the font looks like on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page?useskin=vector)
 
-click on the `install  style` to confirm your installation
-style should be successfully installed 
-Enjoy using the style ! 
-
-## SCREENSHOT 
-this is how the font looks like on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page?useskin=vector)
 ![chivo font userstyle screenshots](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/4ffdbad9-af6f-4249-b658-16731fa63737)
