@@ -12,6 +12,14 @@ some known websites where i have seen this style glitch are
 - github 
 - google collab
 
+## INSTALLATION INSTRUCTIONS: 
+### Make sure you have Stylus Extension installed
+if you dont have it installed already 
+![CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from Chrome Webstore
+
+go to this ![Link here ](https://userstyles.world/style/12169/google-chivo-font-everywhere)
+ and follow straight forward instructions to install this style
+
 
 ## SCREENSHOT 
 this is how the font looks like on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page?useskin=vector)
