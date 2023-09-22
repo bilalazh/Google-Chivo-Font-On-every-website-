@@ -16,7 +16,7 @@ some known websites where i have seen this style glitch are
 ##### Make sure you have Stylus Extension installed
 **SKIP THIS IF YOU ALREADY HAVE THE EXTENSION INSTALLED**
 if you dont have it installed already 
-[CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from Chrome Webstore
+[CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from `Chrome Webstore`
 - you can pin it to see the active styles on any website at any time
 
   **Two right next to the icon shows that there are two styles active for the specific website right now**
@@ -35,11 +35,10 @@ go to this
 should look like this
 ![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/5ff53335-8fa3-4a72-b929-83b220c57929)
 
-<img src="[https://userstyles.world/style/12169/google-chivo-font-everywhere](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/5ff53335-8fa3-4a72-b929-83b220c57929)" width="200" height= "200"/>
 
 
 
-click on the install  style to confirm your installation
+click on the `install  style` to confirm your installation
 style should be successfully installed 
 Enjoy using the style ! 
 
