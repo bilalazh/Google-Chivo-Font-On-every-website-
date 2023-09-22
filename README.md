@@ -28,14 +28,14 @@ if you dont have it installed already
 
 go to this 
 [LINK HERE ](https://userstyles.world/style/12169/google-chivo-font-everywhere)
-<img src="https://userstyles.world/style/12169/google-chivo-font-everywhere" width="200" height= "200"/>
+
 
  and follow straight forward instructions to install this style
  a window will pop open asking for confirmation 
 should look like this
 ![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/5ff53335-8fa3-4a72-b929-83b220c57929)
 
-
+<img src="[https://userstyles.world/style/12169/google-chivo-font-everywhere](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/5ff53335-8fa3-4a72-b929-83b220c57929)" width="200" height= "200"/>
 
 
 
