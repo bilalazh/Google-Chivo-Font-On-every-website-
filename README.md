@@ -21,6 +21,9 @@ if you dont have it installed already
 
   **Two right next to the icon shows that there are two styles active for the specific website right now**
 ![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/a0c78478-203e-48fe-a1e2-98ff0aa8fff0)
+
+
+
 ##### Now its time to install the style 
 
 go to this [LINK HERE ](https://userstyles.world/style/12169/google-chivo-font-everywhere)
