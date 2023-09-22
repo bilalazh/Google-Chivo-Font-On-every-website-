@@ -15,12 +15,21 @@ some known websites where i have seen this style glitch are
 ## INSTALLATION INSTRUCTIONS: 
 ##### Make sure you have Stylus Extension installed
 **SKIP THIS IF YOU ALREADY HAVE THE EXTENSION INSTALLED**
+
+
+
+
+
+
 if you dont have it installed already 
 [CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from `Chrome Webstore`
 - you can pin it to see the active styles on any website at any time
 
-  **Two right next to the icon shows that there are two styles active for the specific website right now**
-![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/a0c78478-203e-48fe-a1e2-98ff0aa8fff0)
+
+
+
+  **Two right next to the icon  ![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/a0c78478-203e-48fe-a1e2-98ff0aa8fff0)      shows that there are two styles active for the specific website right now**
+
 
 
 
