@@ -23,7 +23,10 @@ This user style applies the Google Chivo font to every page you visit. I have ma
 
 ## Installation Instructions <a name="installation-instructions"></a>
 
-> **Important:** Make sure you have Stylus Extension installed. If you don't have it installed already, [CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from Chrome Webstore. You can pin it to see the active styles on any website at any time.
+### Make sure you have Stylus Extension installed.
+- If you don't have it installed already, [CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from Chrome Webstore.
+
+You can pin it to see the active styles on any website at any time.
 
 Two right next to the icon shows that there are two styles active for the specific website right now.
 
