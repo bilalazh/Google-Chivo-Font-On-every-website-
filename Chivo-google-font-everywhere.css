@@ -1,0 +1,17 @@
+/* ==UserStyle==
+@name           Chivo google font everywhere
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    This user style will apply the google chivo font to everything page you visit 
+                I have made some changes in it 
+                this will not change the following 
+                    - monospace font
+                    - icons --> this theme is set up to ignore icons and dont mess up icons on most websites 
+@author         heybilalazhar@gmail.com
+==/UserStyle== */
+
+@import url('https://fonts.googleapis.com/css2?family=Chivo&display=swap');
+
+p, h1, h2, h3, h4, h5, h6, a, span, li, div, code, pre {
+    font-family: 'Chivo', sans-serif !important;
+}
