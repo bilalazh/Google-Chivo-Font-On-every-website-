@@ -31,6 +31,11 @@ go to this [LINK HERE ](https://userstyles.world/style/12169/google-chivo-font-e
  a window will pop open asking for confirmation 
 should look like this
 ![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/5ff53335-8fa3-4a72-b929-83b220c57929)
+
+
+
+
+
 click on the install  style to confirm your installation
 style should be successfully installed 
 Enjoy using the style ! 
