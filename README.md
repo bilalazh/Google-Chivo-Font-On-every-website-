@@ -13,13 +13,24 @@ some known websites where i have seen this style glitch are
 - google collab
 
 ## INSTALLATION INSTRUCTIONS: 
-### Make sure you have Stylus Extension installed
+##### Make sure you have Stylus Extension installed
+**SKIP THIS IF YOU ALREADY HAVE THE EXTENSION INSTALLED**
 if you dont have it installed already 
-![CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from Chrome Webstore
+[CLICK HERE](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) to install it from Chrome Webstore
+- you can pin it to see the active styles on any website at any time
 
-go to this ![Link here ](https://userstyles.world/style/12169/google-chivo-font-everywhere)
+  **Two right next to the icon shows that there are two styles active for the specific website right now**
+![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/a0c78478-203e-48fe-a1e2-98ff0aa8fff0)
+##### Now its time to install the style 
+
+go to this [LINK HERE ](https://userstyles.world/style/12169/google-chivo-font-everywhere)
  and follow straight forward instructions to install this style
-
+ a window will pop open asking for confirmation 
+should look like this
+![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/5ff53335-8fa3-4a72-b929-83b220c57929)
+click on the install  style to confirm your installation
+style should be successfully installed 
+Enjoy using the style ! 
 
 ## SCREENSHOT 
 this is how the font looks like on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page?useskin=vector)
