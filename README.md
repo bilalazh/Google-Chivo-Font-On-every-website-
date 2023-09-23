@@ -28,7 +28,7 @@ This user style applies the Google Chivo font to every page you visit. I have ma
 
 You can pin it to see the active styles on any website at any time.
 
-Two right next to the icon shows that there are two styles active for the specific website right now.
+>Two right next to the icon shows that there are two styles active for the specific website right now.
 
 ![image](https://github.com/bilalazh/Google-Chivo-Font-On-every-website-/assets/139261053/a0c78478-203e-48fe-a1e2-98ff0aa8fff0)
 
